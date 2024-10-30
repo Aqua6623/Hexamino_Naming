@@ -3,7 +3,7 @@
 
 ## 轴对称系 Axisymmetric
 
-![](https://github.com/Aqua6623/Hexamino_Naming/blob/main/pic/sym.png)
+![](pic/sym.png)
 
 对称方块共有十个。
 
@@ -59,7 +59,7 @@ There are 50 non-axisymmetric hexaminoes (25 pairs of axisymmetric hexaminoes).
 
 ### 2×5
 
-![](https://github.com/Aqua6623/Hexamino_Naming/blob/main/pic/asym_5-2.png)
+![](pic/asym_5-2.png)
 
 - J6 & L6 , R6 & Y6 , N6 & H6
 
@@ -75,7 +75,7 @@ A "wide" S/Z-piece.
 
 ### 2×4
 
-![](https://github.com/Aqua6623/Hexamino_Naming/blob/main/pic/asym_4-2.png)
+![](pic/asym_4-2.png)
 
 - P6 & Q6 , F6 & E6
 
@@ -98,5 +98,29 @@ A "bold" Z/S-tetromino.
 ### 3×3
 
 ![](pic/asym_3-3.png)
+
+- Zr (Z-rotate) & Sr (S-rotate)
+
+可以视作 Z/S 块绕其旋转中心旋转 90° 得到的形状。
+
+It can be thought of as the shape of a Z/S-piece rotated 90° around its rotation center.
+
+- rHk (r-Hook) & lHk (l-Hook)
+
+形似钩子而得名。
+
+Shapes like a hook.
+
+- n1 (number-1) & n4 (number-4)
+
+形似数字1、数字4而得名。有一名为 Number One 的开局定式。
+
+Shapes like a number 1/4. There is a n opener called "Number One".
+
+- ZO & SO
+
+Z/S 块与 O 块组合成的形状。对于六连块，组合出的形状唯一。
+
+A combination of a Z/S-piece and a O-piece. For hexamino, this is the only shape they can be combined.
 
 ### 3×4
