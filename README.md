@@ -51,4 +51,15 @@ Triangle.
 
 There is a term in Go chess called "Plum Six" or "Grape Six", which describes this shape (but it is the enclosed area), so it is borrowed to name this shape.
 
-## 不对称系
+## 非轴对称系
+
+不对称方块共有 50 种，25 对。
+There are 50 non-axisymmetric hexaminoes (25 pairs of axisymmetric hexaminoes).
+
+### 2×5
+
+### 2×4
+
+### 3×3
+
+### 3×4
