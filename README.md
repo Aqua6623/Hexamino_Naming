@@ -9,7 +9,7 @@
 
 There are 10 axisymmetric hexaminoes.
 
-- I6  T6  O6  U6
+- I6 , T6 , O6 , U6
 
 仿照四连、五连方块取的名字。
 
@@ -61,7 +61,7 @@ There are 50 non-axisymmetric hexaminoes (25 pairs of axisymmetric hexaminoes).
 
 ![](https://github.com/Aqua6623/Hexamino_Naming/blob/main/pic/asym_5-2.png)
 
-- J6 & L6  R6 & Y6  N6 & H6
+- J6 & L6 , R6 & Y6 , N6 & H6
 
 仿照四连、五连方块取的名字。
 
