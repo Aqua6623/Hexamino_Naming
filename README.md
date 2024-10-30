@@ -20,7 +20,7 @@ So I came up with a set of six-block names that use no more than 3 Latin letters
 
 ![](pic/sym.png)
 
-对称方块共有十个。
+轴对称方块共有十个。
 
 There are 10 axisymmetric hexaminoes.
 
