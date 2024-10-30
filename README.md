@@ -11,9 +11,9 @@ There are 10 axisymmetric hexaminoes.
 
 - I6 , T6 , O6 , U6
 
-仿照四连、五连方块取的名字。
+仿照四连、五连方块取的名字。其中 T6 是正方体[展开图](https://zh.wikipedia.org/wiki/%E5%B1%95%E9%96%8B%E5%9C%96)之一。
 
-Names are from tetrominoes and pentominoes.
+Names are from tetrominoes and pentominoes. T6 is one of the [net](https://en.wikipedia.org/wiki/Net_(polyhedron)) of a cube.
 
 - wT (wide-T)
 
@@ -23,15 +23,16 @@ A "wide" T-piece.
 
 - Ht (Hat)
 
-形似帽子而得名。
+形似帽子而命名。
 
 Shapes like a hat.
 
 - XT
 
-形似五连块的 X，但多出一格，像小写的 t，故名。
+形似五连块的 X，但多出一格，像小写的 t，故名。正方体展开图之一。
 
-Similar to X-pentomino, but shapes like a lowercase letter t because of the extra cell.
+Similar to X-pentomino, but shapes like a lowercase letter t because of the extra cell. This is one of the net of a cube.
+
 
 - A
 
@@ -69,9 +70,9 @@ Names are from tetrominoes and pentominoes.
 
 - wZ (wide-Z) & wS (wide-S)
 
-由S/Z块加宽得到。
+由S/Z块加宽得到。正方体展开图之一。
 
-A "wide" S/Z-piece.
+A "wide" S/Z-piece. This is one of the net of a cube.
 
 ### 2×4
 
@@ -85,7 +86,7 @@ Names are from tetrominoes and pentominoes.
 
 - lSp (l-Spoon) & rSp (r-Spoon)
 
-形似勺子而得名。
+形似勺子而命名。
 
 Shapes like a spoon.
 
@@ -107,13 +108,13 @@ It can be thought of as the shape of a Z/S-piece rotated 90° around its rotatio
 
 - rHk (r-Hook) & lHk (l-Hook)
 
-形似钩子而得名。
+形似钩子而命名。
 
 Shapes like a hook.
 
 - n1 (number-1) & n4 (number-4)
 
-形似数字1、数字4而得名。有一名为 Number One 的开局定式。
+形似数字1、数字4而命名。有一名为 Number One 的开局定式。
 
 Shapes like a number 1/4. There is a n opener called "Number One".
 
@@ -121,6 +122,6 @@ Shapes like a number 1/4. There is a n opener called "Number One".
 
 Z/S 块与 O 块组合成的形状。对于六连块，组合出的形状唯一。
 
-A combination of a Z/S-piece and a O-piece. For hexamino, this is the only shape they can be combined.
+A combination of a Z/S-piece and a O-piece. This is the only shape they can be combined in hexaminoes.
 
 ### 3×4
