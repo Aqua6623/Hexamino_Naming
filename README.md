@@ -4,7 +4,7 @@
 其中 20 种是正方体的[展开图](https://zh.wikipedia.org/wiki/%E5%B1%95%E9%96%8B%E5%9C%96)，若允许翻转则有 11 种。所有正方体展开图用碧绿色标出。
 
 There are 60 different Hexaminoes, 10 of which are axisymmetric, so there are 35 if flip is allowed.  
-20 (11 if flip is allowed) of them are [nets](https://en.wikipedia.org/wiki/Net_(polyhedron)) of a cube. All nets are marked in turquoise.
+20 (11 if flip is allowed) of them are [nets](https://en.wikipedia.org/wiki/Net_(polyhedron)) of a cube. All nets are colored in turquoise.
 
 MultiMino 的作者，Axel Fox，也命名了所有六连块，但却拘泥于单个字符，使用了许多罕见符号。  
 系统命名法虽适用所有六连块，但未免过于冗长且不够直观。  
