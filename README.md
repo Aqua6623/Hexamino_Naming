@@ -8,11 +8,13 @@ There are 60 different Hexaminoes, 10 of which are axisymmetric, so there are 35
 
 MultiMino 的作者，Axel Fox，也命名了所有六连块，但却拘泥于单个字符，使用了许多罕见符号。  
 系统命名法虽适用所有六连块，但未免过于冗长且不够直观。  
-故我又提出一套六连块命名，使用不超过 3 个拉丁字母且能直观表述所有形状，写于下方。  
+故我又提出一套六连块命名，使用不超过 3 个拉丁字母且能直观表述所有形状，写于下方。
 
 Axel Fox, the author of MultiMino, also named all hexaminoes, but he stuck to naming with only one single character and used many uncommon symbols.  
 Although a systematic nomenclature works for all hexaminoes, it is too long and not intuitive enough.  
-So I came up with a set of six-block names that use no more than 3 Latin letters and can intuitively describe all shapes, written below.  
+So I came up with a set of six-block names that use no more than 3 Latin letters and can intuitively describe all shapes, written below.
+
+![](pic/overall.png)
 
 ## 轴对称系 Axisymmetric
 
@@ -66,7 +68,7 @@ There is a term in Go chess called "Plum Six" or "Grape Six", which describes th
 
 ## 非轴对称系 Non-axisymmetric
 
-不对称方块共有 50 种，25 对。
+非轴对称方块共有 50 种，25 对。
 
 There are 50 non-axisymmetric hexaminoes (25 pairs of axisymmetric hexaminoes).
 
