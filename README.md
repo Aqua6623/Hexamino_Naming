@@ -1,5 +1,4 @@
-# Hexamino_Naming
-我自己的六连块命名 My hexamino names
+# Hexamino_Naming V0.1 by Aqua6623
 
 六连块共有 60 种，其中 10 种是轴对称图形，若允许翻转则有 35 种。  
 其中 20 种是正方体的[展开图](https://zh.wikipedia.org/wiki/%E5%B1%95%E9%96%8B%E5%9C%96)，若允许翻转则有 11 种。所有正方体展开图用碧绿色标出。
