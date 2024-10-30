@@ -1,7 +1,7 @@
 # Hexamino_Naming
 我自己的六连块命名 My hexamino names
 
-## 轴对称系
+## 轴对称系 Axisymmetric
 
 ![](https://github.com/Aqua6623/Hexamino_Naming/blob/main/pic/sym.png)
 
@@ -51,7 +51,7 @@ Triangle.
 
 There is a term in Go chess called "Plum Six" or "Grape Six", which describes this shape (but it is the enclosed area), so it is borrowed to name this shape.
 
-## 非轴对称系
+## 非轴对称系 Non-axisymmetric
 
 不对称方块共有 50 个，25 对。
 
@@ -96,5 +96,7 @@ Shapes like a spoon.
 A "bold" Z/S-tetromino.
 
 ### 3×3
+
+![](pic/asym_3-3.png)
 
 ### 3×4
