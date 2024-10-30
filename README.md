@@ -9,7 +9,7 @@
 
 There are 10 axisymmetric hexaminoes.
 
-- I6 T6 O6 U6
+- I6  T6  O6  U6
 
 仿照四连、五连方块取的名字。
 
@@ -53,10 +53,25 @@ There is a term in Go chess called "Plum Six" or "Grape Six", which describes th
 
 ## 非轴对称系
 
-不对称方块共有 50 种，25 对。
+不对称方块共有 50 个，25 对。
+
 There are 50 non-axisymmetric hexaminoes (25 pairs of axisymmetric hexaminoes).
 
 ### 2×5
+
+![](https://github.com/Aqua6623/Hexamino_Naming/blob/main/pic/asym_5-2.png)
+
+- J6 & L6  R6 & Y6  N6 & H6
+
+仿照四连、五连方块取的名字。
+
+Names are from tetrominoes and pentominoes.
+
+- wZ (wide-Z) & wS (wide-S)
+
+更宽的“S/Z块”。
+
+A wider "S/Z-piece".
 
 ### 2×4
 
