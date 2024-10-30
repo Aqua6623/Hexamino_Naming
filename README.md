@@ -17,13 +17,13 @@ Names are from tetrominoes and pentominoes.
 
 - wT (wide-T)
 
-更宽的“T块”。
+由T块加宽得到。
 
-A wider "T-piece".
+A "wide" T-piece.
 
 - Ht (Hat)
 
-形似一顶帽子。
+形似帽子而得名。
 
 Shapes like a hat.
 
@@ -69,11 +69,31 @@ Names are from tetrominoes and pentominoes.
 
 - wZ (wide-Z) & wS (wide-S)
 
-更宽的“S/Z块”。
+由S/Z块加宽得到。
 
-A wider "S/Z-piece".
+A "wide" S/Z-piece.
 
 ### 2×4
+
+![](https://github.com/Aqua6623/Hexamino_Naming/blob/main/pic/asym_4-2.png)
+
+- P6 & Q6 , F6 & E6
+
+仿照四连、五连方块取的名字。
+
+Names are from tetrominoes and pentominoes.
+
+- lSp (l-Spoon) & rSp (r-Spoon)
+
+形似勺子而得名。
+
+Shapes like a spoon.
+
+- bZ (bold-Z) & bS (bold-S)
+
+由 Z、S 块加粗得到。
+
+A "bold" Z/S-tetromino.
 
 ### 3×3
 
