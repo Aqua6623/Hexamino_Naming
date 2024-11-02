@@ -164,4 +164,4 @@ It can be considered as a copy of the Z/S tetromino and then splicing it togethe
 
 这些六连块被拆分成三个四连块，这三个四连块一定没有 I，从左到右/从右到左拼接，相邻的四连块必有三格互相重叠。
 
-These hexaminoes are split into three tetrominoes. These three tetrominoes must not have I, spliced ​​from left to right/from right to left, adjacent tetrominoes must overlap by three squares.
+These hexaminoes are split into three tetrominoes. These three tetrominoes must not have I, spliced from left to right/from right to left, adjacent tetrominoes must overlap by three cells.
