@@ -12,7 +12,7 @@ MultiMino 的作者，Axel Fox，也命名了所有六连块，但却拘泥于�
 
 Axel Fox, the author of MultiMino, also named all hexaminoes, but he stuck to naming with only one single character and used many uncommon symbols.  
 Although a systematic nomenclature works for all hexaminoes, it is too long and not intuitive enough.  
-So I came up with a set of six-block names that use no more than 3 Latin letters and can intuitively describe all shapes, written below.
+So I came up with a set of hexamino names that use no more than 3 Latin letters and can intuitively describe all shapes, written below.
 
 ![](pic/overall.png)
 
